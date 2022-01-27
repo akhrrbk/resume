@@ -33,3 +33,10 @@ Projects
 Other Projects:
 
 * other small projects(which have been uploaded to [github here](https://github.com/akhrrbk?tab=repositories))
+
+Language Availability
+----------
+* Uzbek(born and raised)
+* English(fluent)
+* Korean(level 4/6)
+* Russian(level2/6)

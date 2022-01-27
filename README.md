@@ -1,6 +1,4 @@
 # Axrorbek's Resume
-============
-
 --------------------------------------
 my github account [here](github.com/akhrrbk)
 --------------------------------------

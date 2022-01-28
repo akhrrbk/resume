@@ -16,10 +16,10 @@ Education
     *Fullstack: html, css, javascript, bootstrap 4, nodejs express, mongodb, jquery*
 
 2022(Jan)-present(online)
-:   **FullStack,**; University of Helsinki, (Finland) [(Fullstackopen.com)](https://fullstackopen.com/en/#course-contents)
+:   **FullStack,**; University of Helsinki, (Finland) [(fullstackopen.com)](https://fullstackopen.com/en/#course-contents)
 
     *Fullstack: javascript, react, nodejs express, mongodb, 
-    learning(redux, graphql, typescript, react native, CI/CD, relational databases)
+    learning(redux, graphql, typescript, react native, CI/CD, postgresql)
 
 Projects
 ----------
@@ -32,7 +32,7 @@ Projects
 
 Other Projects:
 
-* other small projects(which have been uploaded to [github here](https://github.com/akhrrbk?tab=repositories))
+* other small projects(which have been collected to [this github folder](https://github.com/akhrrbk/list-of-projects))
 
 Language Availability
 ----------

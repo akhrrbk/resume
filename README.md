@@ -18,8 +18,13 @@ Education
 2022(Jan)-present(online)
 :   **FullStack,**; University of Helsinki, (Finland) [(fullstackopen.com)](https://fullstackopen.com/en/#course-contents)
 
-    *Fullstack: javascript, react, nodejs express, mongodb, 
-    learning(redux, graphql, typescript, react native, CI/CD, postgresql)
+    *Part0: Fundamentals: html, css
+    *Part1: React Basics: javascript (map/filter/reduce/find/... functions), React: (useState/... etc), ... etc
+    *Part2: Communicating with Server: getting data from the server, altering data in the server, styling react applications
+    *Part3: Servers: Node.js & Express, connecting frontend and backend, deploying to heroku, mongoDB atlas database, mongoose advanced API, eslint/eslint-config-airbnb
+    *part4: Testing & User Administration: testing, user authentication and authorization.
+     
+    next: learning(redux, graphql, typescript, react native, CI/CD, postgresql)
 
 Projects
 ----------

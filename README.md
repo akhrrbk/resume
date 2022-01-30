@@ -1,5 +1,5 @@
 # Axrorbek's Resume
-my github [account here](github.com/akhrrbk)
+PDF [version here](https://drive.google.com/file/d/1k7bE2sm1SPis-fD6lOJYe6xSvWJHeO6C/view?usp=sharing)
 
 Education
 ---------

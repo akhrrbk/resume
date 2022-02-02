@@ -1,5 +1,5 @@
 # Axrorbek's Resume
-PDF [version here](https://drive.google.com/file/d/1yb_1s5HKmxXZDb-ebVhO7FVL2bqAvupU/view)
+PDF [version here](https://drive.google.com/file/d/1pnHVyhDD7dm47GY48u0E7HkkuvqVDvcf/view?usp=sharing)
 
 Education
 ---------
